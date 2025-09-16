@@ -1,0 +1,16 @@
+﻿Title,Male,Age (weeks),Stain,Resolution (um),Collection Date,Stain start,Imaging - Stained,Imaging - Fixed
+Rat 01,Yes,10,I2KI,10.03,"May 25, 2022","June 15, 2022","July 6, 2022","June 2, 2022"
+Rat 02,No,10,I2KI,10.03,"June 29, 2022","September 12, 2022","October 7, 2022",
+Rat 03,Yes,10,PTA,7.72,"March 29, 2023","April 19, 2023","May 23, 2023",
+Rat 04,Yes,10,PTA,7.72,"March 30, 2023","April 19, 2023","June 8, 2023",
+Rat 05,Yes,8,PTA,7.99,"April 19, 2023","June 12, 2023","September 13, 2023",
+Rat 06,Yes,7,PTA,7.45,"April 20, 2023","June 12, 2023","September 14, 2023",
+Rat 07,Yes,10,PTA,9.08,"April 26, 2023","June 12, 2023","October 10, 2023",
+Rat 08,Yes,7,PTA,,"April 27, 2023","June 12, 2023",,
+Rat 09,Yes,7,PTA,9.08,"July 4, 2023","September 13, 2023","November 14, 2023",
+Rat 10,No,12,PTA,9.08,"July 7, 2023","September 13, 2023","November 15, 2023",
+Rat 11,No,11,PTA,9.08,"July 18, 2023","September 13, 2023","November 16, 2023",
+Rat 12,No,12,PTA,9.08,"November 9, 2023","March 5, 2024","April 29, 2024","November 22, 2023"
+Rat 13,No,12,PTA,9.08,"November 10, 2023","March 5, 2024","April 30, 2024","December 5, 2023"
+Rat 14,No,11,I2KI,9.08,"April 15, 2024","June 21, 2024","August 20, 2024","June 18, 2024"
+Rat 15,No,11,I2KI,9.08,"April 17, 2024","June 21, 2024","August 22, 2024","June 18, 2024"
